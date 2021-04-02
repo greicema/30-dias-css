@@ -23,6 +23,7 @@ ul li {
     margin: 0 30px;
     background: grey;
     transform: rotate(-30deg) skew(25deg);
+    /* Transform: rotate -> define uma rotação em 2D & skew -> define uma transformação assimétrica em 2D nos eixos X (horizontal) e Y (vertical)*/
 }
 
 ul li span {
@@ -33,23 +34,31 @@ ul li span {
     height: 100%;
     background: #000;
     transition: 0.5s;
+    /*Transition faz com que você modifique valores de uma propriedade a partir de um duração definida. 
+        Sendo possível alterar os valores: a propriedade CSS a qual se pretende modificar e a duração do efeito*/
     display: flex !important;
     align-items: center;
     justify-content: center;
     color: #fff;
     font-size: 30px !important;
+    /*a declaração !important serve para forçar o CSS a usar a propriedade descrita nessa linha, 
+    colocando-a como prioridade na hierarquia do CSS*/
 }
 
 ul li:hover span {
+    /*o seletor :hover serve para selecionar quando o cursor do mouse passar por um determinado elemento*/
     box-shadow: -1px 1px 1px rgba(0, 0, 0, .1);
 }
 
 ul li:hover span:nth-child(5) {
     transform: translate(40px, -40px);
     opacity: 1;
+    /*Opacity é a propriedade que altera a opacidade/transparência de um elemento 
+            em uma escala que varia de 0.0 a 1.0 (quanto menor o valor, mais transparente é o elemento*/
 }
 
 ul li:hover span:nth-child(4) {
+    /*o seletor nth-child() altera propriedades do child independente das características do elemento pai*/
     transform: translate(30px, -30px);
     opacity: 0.8;
 }
