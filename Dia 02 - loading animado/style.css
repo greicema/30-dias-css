@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text {
+    width: 350px;
+    height: 350px;
+    color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 350px;
+    font-size: 36px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+}
+
+.circle {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    box-shadow: 0 4px 0 #1b1b1b;
+    animation: animate 1.25s linear infinite;
+    /*Animation permite modificar um elemento, gradualmente, de um estilo para outro 
+        sem a utilização do JavaScript*/
+}
+
+@keyframes animate {
+    /*Aplica-se os estilos CSS dentro das regras de @keyframes para que a animação ocorra*/
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
