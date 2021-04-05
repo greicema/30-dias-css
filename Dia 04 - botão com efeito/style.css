@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    height: 100vh;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao {
+    width: 300px;
+    height: 70px;
+    background: none;
+    border: 5px solid;
+    font-weight: 800;
+    font-size: 16px;
+    color: rgb(240, 87, 138);
+    cursor: pointer;
+    position: relative;
+}
+
+
+/*o seletor ::before serve para inserir algo antes do conteúdo de um determinado elemento |
+o seletor ::after serve para inserir algo deppois do conteúdo de um determinado elemento*/
+
+.botao::before,
+.botao::after {
+    content: " ";
+    position: absolute;
+    width: 16px;
+    height: 8px;
+    background: burlywood;
+    transform: skewX(50deg);
+    transition: .4s linear;
+}
+
+.botao::before {
+    top: -8px;
+    left: 10%;
+}
+
+.botao::after {
+    bottom: -8px;
+    right: 10%;
+}
+
+.botao:hover::before {
+    left: 80%;
+}
+
+.botao:hover::after {
+    right: 80%;
+}
