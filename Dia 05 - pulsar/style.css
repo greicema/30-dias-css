@@ -1,0 +1,38 @@
+body {
+    background-color: burlywood;
+}
+
+.circulo {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.pulsar {
+    width: 200px;
+    height: 200px;
+    background: rgb(243, 94, 193);
+    border-radius: 50%;
+    line-height: 200px;
+    color: rgb(179, 179, 179);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    animation: animate 3s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        box-shadow: 0 0 0 0 rgba(253, 126, 211, 0.7), 0 0 0 0 rgba(253, 126, 211, 0.7);
+    }
+    40% {
+        box-shadow: 0 0 0 50px rgba(55, 209, 201, 0), 0 0 0 0 rgba(253, 126, 211, 0.7);
+    }
+    80% {
+        box-shadow: 0 0 0 50px rgba(55, 209, 201, 0), 0 0 0 30px rgba(55, 209, 201, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(55, 209, 201, 0), 0 0 0 30px rgba(55, 209, 201, 0);
+    }
+}
