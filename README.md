@@ -6,7 +6,7 @@ Desafio de 30 dias para melhorar habilidades de codificação com mini projetos 
 ![dia01](https://user-images.githubusercontent.com/51206170/114206459-bee41d00-9931-11eb-8afc-6206dec7f09e.gif)
 
 O que foi utilizado: 
-- <span>
+- span
 - transform
 - transition
 - !important
@@ -29,7 +29,7 @@ O que foi utilizado:
 ![dia03](https://user-images.githubusercontent.com/51206170/114209235-c953e600-9934-11eb-9786-cd03ba9b16d2.gif)
 
 O que foi utilizado:
-- <span>
+- span
 - overflow
 - animation
 - @keyframes
