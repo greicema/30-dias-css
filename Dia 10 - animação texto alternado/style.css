@@ -1,0 +1,61 @@
+body {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Press Start 2P';
+    font-size: 24px;
+}
+
+.hands {
+    position: absolute;
+    padding-top: 132px;
+}
+
+.hand-one {
+    margin-right: 36px;
+}
+
+.hand-one:before {
+    content: ' ';
+    animation: play-one 3s infinite;
+    bottom: 2px;
+    font-size: 60px;
+    animation-delay: 0.2s;
+}
+
+@keyframes play-one {
+    0% {
+        content: '👊🏼'
+    }
+    50% {
+        content: '✌🏼'
+    }
+    100% {
+        content: '🖐🏼'
+    }
+}
+
+.hand-two:before {
+    content: ' ';
+    animation: play-two 3s infinite;
+    font-size: 60px;
+}
+
+@keyframes play-two {
+    0% {
+        content: '🖐🏿';
+    }
+    50% {
+        content: '👊🏿';
+    }
+    100% {
+        content: '✌🏿';
+    }
+}
