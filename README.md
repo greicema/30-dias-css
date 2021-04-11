@@ -103,7 +103,7 @@ O que foi utilizado:
 - @keyframes
 
 
-### Dia 10 - [Animação texto alternado]()
+### Dia 10 - [Animação texto alternado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2010%20-%20animação%20texto%20alternado)
 
 ![dia10](https://user-images.githubusercontent.com/51206170/114313796-66965200-9ace-11eb-8cff-dba99a06514a.gif)
 
