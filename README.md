@@ -87,3 +87,17 @@ O que foi utilizado:
 - :before
 - :after
 - @keyframes
+
+
+### Dia 09 - [Pêndulo de Newton](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2009%20-%20pêndulo%20de%20newton)
+
+![dia09](https://user-images.githubusercontent.com/51206170/114280458-aea26f80-9a0f-11eb-98ec-1145c3f0dd10.gif)
+
+O que foi utilizado:
+- span
+- transform
+- :before
+- first-child
+- last-child
+- animation
+- @keyframes
