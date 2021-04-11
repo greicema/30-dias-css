@@ -101,3 +101,14 @@ O que foi utilizado:
 - last-child
 - animation
 - @keyframes
+
+
+### Dia 10 - [Animação texto alternado]()
+
+![dia10](https://user-images.githubusercontent.com/51206170/114313796-66965200-9ace-11eb-8cff-dba99a06514a.gif)
+
+O que foi utilizado:
+- span
+- :before
+- animation
+- @keyframes
