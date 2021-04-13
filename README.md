@@ -112,3 +112,16 @@ O que foi utilizado:
 - :before
 - animation
 - @keyframes
+
+
+## Dia 11 - [Botão com efeito hover](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2011%20-%20botão%20com%20efeito%20hover)
+
+![dia11](https://user-images.githubusercontent.com/51206170/114447205-8306bd00-9ba8-11eb-9055-ba5b91366c03.gif)
+
+O que foi utilizado:
+- button
+- overflow
+- transition
+- :hover
+- ::before
+- z-index 
