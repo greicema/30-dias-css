@@ -138,3 +138,15 @@ O que foi utilizado:
 - ::before
 - white-space
 - :hover
+
+
+### Dia 13 - [Loading com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2013%20-%20loading%20com%20efeito)
+
+![dia13](https://user-images.githubusercontent.com/51206170/114757687-8a59d200-9d32-11eb-8f5d-a84ef29d2461.gif)
+
+O que foi utilizado:
+- text-shadow
+- animation
+- @keyframes
+- transform
+- nth-child()
