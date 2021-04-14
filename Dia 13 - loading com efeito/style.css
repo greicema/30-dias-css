@@ -20,6 +20,7 @@ ul li {
     font-size: 70px;
     animation: loading 1s ease infinite;
     text-shadow: 4px 4px 8px #000000;
+    /*a propriedade text-shadow adiciona um sombreamento a um determinado texto*/
     color: white;
 }
 
