@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    font-size: 22px;
+    text-align: center;
+    color: transparent;
+    background: url(onda.jpg);
+    -webkit-background-clip: text;
+    /*a propriedade background-clip define até onde o fundo deve se estender dentro de um determinado elemento*/
+    animation: fundo 10s linear infinite;
+}
+
+@keyframes fundo {
+    from {
+        background-position: 100% 0;
+    }
+    to {
+        background-position: 0 0;
+    }
+}
