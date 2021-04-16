@@ -1,0 +1,52 @@
+body {
+    background-color: burlywood;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+/*a propriedade @font-face serve para adicionar um fonte externa ao código*/
+
+@font-face {
+    font-family: TI logoso TFB;
+    src: url(./TI\ logoso\ TFB.ttf);
+}
+
+h1 {
+    font-size: 46px;
+    position: relative;
+    animation: move 8s linear infinite alternate;
+    margin: 0;
+    color: burlywood;
+    font-family: TI logoso TFB;
+}
+
+@keyframes move {
+    0% {
+        transform: translate(-180px, 180px);
+        background-color: red;
+    }
+    20% {
+        transform: translate(180px, -180px);
+        background-color: yellow;
+    }
+    40% {
+        transform: translate(0px, 195px);
+        background-color: blue;
+    }
+    60% {
+        transform: translate(-195px, 0px);
+        background-color: black;
+    }
+    80% {
+        transform: translate(0px, 195px);
+        background-color: pink;
+    }
+    100% {
+        transform: translate(180px, -180px);
+        background-color: green;
+    }
+}
