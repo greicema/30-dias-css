@@ -1,6 +1,24 @@
 # 30-dias-css
 Desafio de 30 dias para melhorar habilidades de codificação com mini projetos em HTML e CSS. Desafio idealizado por Milena Carecho.
 
+## Índice
+                
+1. [Ícones de redes sociais animados ](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2001%20-%20ícone%20de%20mídia%20social%20em%20camadas)
+2. [Loading animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2002%20-%20loading%20animado)
+3. [Mudança de cor de texto](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2003%20-%20mudança%20de%20cor%20de%20texto)
+4. [Botão com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2004%20-%20botão%20com%20efeito)
+5. [Pulsar](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2005%20-%20pulsar)
+6. [Iluminando letras](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2006%20-%20iluminando%20letras)
+7. [Preloader aniamdo](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2007%20-%20preloader%20animado)
+8. [Coração batendo](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2008%20-%20coração%20batendo)
+9. [Pêndulo de Newton](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2009%20-%20pêndulo%20de%20newton)
+10. [Animação texto alternado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2010%20-%20animação%20texto%20alternado)
+11. [Botão com efeito hover](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2011%20-%20botão%20com%20efeito%20hover)
+12. [Efeito de preenchimento ao passar o mouse](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2012%20-%20efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
+13. [Loading com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2013%20-%20loading%20com%20efeito)
+14. [Fundo de texto animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2014%20-%20fundo%20de%20texto%20animado)
+
+
 ### Dia 01 - [Ícones de redes sociais animados ](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2001%20-%20ícone%20de%20mídia%20social%20em%20camadas)
 
 ![dia01](https://user-images.githubusercontent.com/51206170/114206459-bee41d00-9931-11eb-8afc-6206dec7f09e.gif)
@@ -160,3 +178,13 @@ O que foi utilizado:
 - background-clip
 - animation
 - @keyframes
+
+
+### Dia 15 - [Texto flutuante[(https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
+
+![dia15](https://user-images.githubusercontent.com/51206170/115086949-a5b80f00-9ee3-11eb-981c-81879161740a.gif)
+
+O que foi utilizado:
+- @font-face
+- animation
+- transform
