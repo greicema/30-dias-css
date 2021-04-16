@@ -150,3 +150,13 @@ O que foi utilizado:
 - @keyframes
 - transform
 - nth-child()
+
+
+### Dia 14 - [Fundo de texto animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2014%20-%20fundo%20de%20texto%20animado)
+
+![dia14](https://user-images.githubusercontent.com/51206170/114914036-3e716080-9df8-11eb-8598-c5e99c584c0d.gif)
+
+O que foi utilizado:
+- background-clip
+- animation
+- @keyframes
