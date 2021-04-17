@@ -1,0 +1,40 @@
+body {
+    background-color: burlywood;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.btn {
+    height: 60px;
+    width: 300px;
+    color: rgb(0, 75, 0);
+    background-color: rgb(139, 224, 139);
+    font-size: 16px;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    transition: all .3s;
+}
+
+.btn:before {
+    content: 'Libere o acesso 🔒';
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: scaleY(-100%);
+    transition: all .5s;
+}
+
+.btn:hover:before {
+    transform: scaleY(0);
+}
