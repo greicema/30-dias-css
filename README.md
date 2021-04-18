@@ -17,6 +17,9 @@ Desafio de 30 dias para melhorar habilidades de codificação com mini projetos 
 12. [Efeito de preenchimento ao passar o mouse](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2012%20-%20efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
 13. [Loading com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2013%20-%20loading%20com%20efeito)
 14. [Fundo de texto animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2014%20-%20fundo%20de%20texto%20animado)
+15. [Texto flutuante](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
+16. [Botão com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2016%20-%20botão%20com%20efeito%202.0)
+
 
 
 ### Dia 01 - [Ícones de redes sociais animados ](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2001%20-%20ícone%20de%20mídia%20social%20em%20camadas)
@@ -32,6 +35,7 @@ O que foi utilizado:
 - nth-child()
 
 
+
 ### Dia 02 - [Loading animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2002%20-%20loading%20animado)
 
 ![dia02](https://user-images.githubusercontent.com/51206170/114206844-1edac380-9932-11eb-8259-b473cecc1cf6.gif)
@@ -40,6 +44,7 @@ O que foi utilizado:
 - transform
 - animation
 - @keyframes
+
 
 
 ### Dia 03 - [Mudança de cor de texto](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2003%20-%20mudança%20de%20cor%20de%20texto)
@@ -53,6 +58,7 @@ O que foi utilizado:
 - @keyframes
 
 
+
 ### Dia 04 - [Botão com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2004%20-%20botão%20com%20efeito)
 
 ![dia04](https://user-images.githubusercontent.com/51206170/114209894-86ded900-9935-11eb-9233-29c36bb14567.gif)
@@ -62,6 +68,7 @@ O que foi utilizado:
 - ::after
 - transform
 - :hover
+
 
 
 ### Dia 05 - [Pulsar](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2005%20-%20pulsar)
@@ -74,6 +81,7 @@ O que foi utilizado:
 - @keyframes
 
 
+
 ### Dia 06 - [Iluminando letras](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2006%20-%20iluminando%20letras)
 
 ![dia06](https://user-images.githubusercontent.com/51206170/114210329-053b7b00-9936-11eb-8066-06659f9c2690.gif)
@@ -82,6 +90,7 @@ O que foi utilizado:
 - animation
 - @keyframes
 - nth-child()
+
 
 
 ### Dia 07 - [Preloader aniamdo](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2007%20-%20preloader%20animado)
@@ -95,6 +104,7 @@ O que foi utilizado:
 - nth-child()
 
 
+
 ### Dia 08 - [Coração batendo](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2008%20-%20coração%20batendo)
 
 ![dia08](https://user-images.githubusercontent.com/51206170/114210874-5d727d00-9936-11eb-8f8b-aa1b5a750147.gif)
@@ -105,6 +115,7 @@ O que foi utilizado:
 - :before
 - :after
 - @keyframes
+
 
 
 ### Dia 09 - [Pêndulo de Newton](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2009%20-%20pêndulo%20de%20newton)
@@ -121,6 +132,7 @@ O que foi utilizado:
 - @keyframes
 
 
+
 ### Dia 10 - [Animação texto alternado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2010%20-%20animação%20texto%20alternado)
 
 ![dia10](https://user-images.githubusercontent.com/51206170/114313796-66965200-9ace-11eb-8cff-dba99a06514a.gif)
@@ -130,6 +142,7 @@ O que foi utilizado:
 - :before
 - animation
 - @keyframes
+
 
 
 ### Dia 11 - [Botão com efeito hover](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2011%20-%20botão%20com%20efeito%20hover)
@@ -145,6 +158,7 @@ O que foi utilizado:
 - z-index 
 
 
+
 ### Dia 12 - [Efeito de preenchimento ao passar o mouse](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2012%20-%20efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
 
 ![dia12](https://user-images.githubusercontent.com/51206170/114617183-2ece0c80-9c7e-11eb-8532-00f5405b5503.gif)
@@ -156,6 +170,7 @@ O que foi utilizado:
 - ::before
 - white-space
 - :hover
+
 
 
 ### Dia 13 - [Loading com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2013%20-%20loading%20com%20efeito)
@@ -170,6 +185,7 @@ O que foi utilizado:
 - nth-child()
 
 
+
 ### Dia 14 - [Fundo de texto animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2014%20-%20fundo%20de%20texto%20animado)
 
 ![dia14](https://user-images.githubusercontent.com/51206170/114914036-3e716080-9df8-11eb-8598-c5e99c584c0d.gif)
@@ -180,6 +196,7 @@ O que foi utilizado:
 - @keyframes
 
 
+
 ### Dia 15 - [Texto flutuante[(https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
 
 ![dia15](https://user-images.githubusercontent.com/51206170/115086949-a5b80f00-9ee3-11eb-981c-81879161740a.gif)
@@ -187,4 +204,15 @@ O que foi utilizado:
 O que foi utilizado:
 - @font-face
 - animation
+- transform
+
+
+
+### Dia 16 - [Botão com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2016%20-%20botão%20com%20efeito%202.0)
+
+![dia16](https://user-images.githubusercontent.com/51206170/115120201-95a33c80-9f82-11eb-85e9-46b50e653830.gif)
+
+O que foi tutilizado:
+- overflow
+- transition
 - transform
