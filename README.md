@@ -216,3 +216,12 @@ O que foi tutilizado:
 - overflow
 - transition
 - transform
+
+
+
+### Dia 17 - [Loader animado]()
+
+![dia17](https://user-images.githubusercontent.com/51206170/115153202-1d547e00-a04b-11eb-9a1c-b0430eb7dd86.gif)
+
+O que foi utilizado:
+- animation
