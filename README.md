@@ -226,3 +226,14 @@ O que foi tutilizado:
 
 O que foi utilizado:
 - animation
+
+
+
+### Dia 18 - [Texto esfumaçado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2018%20%20-%20texto%20esfumaçado) 
+
+![dia18](https://user-images.githubusercontent.com/51206170/115269944-33794180-a112-11eb-8eb6-e34765a1e6ad.gif)
+
+O que foi utilizado:
+- transform
+- :hover
+- filter
