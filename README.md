@@ -198,7 +198,7 @@ O que foi utilizado:
 
 
 
-### Dia 15 - [Texto flutuante[(https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
+### Dia 15 - [Texto flutuante](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
 
 ![dia15](https://user-images.githubusercontent.com/51206170/115086949-a5b80f00-9ee3-11eb-981c-81879161740a.gif)
 
