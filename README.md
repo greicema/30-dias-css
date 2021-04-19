@@ -19,6 +19,7 @@ Desafio de 30 dias para melhorar habilidades de codificação com mini projetos 
 14. [Fundo de texto animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2014%20-%20fundo%20de%20texto%20animado)
 15. [Texto flutuante](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
 16. [Botão com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2016%20-%20botão%20com%20efeito%202.0)
+17. [Loader animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2017%20-%20loader%20animado)
 
 
 
@@ -197,7 +198,7 @@ O que foi utilizado:
 
 
 
-### Dia 15 - [Texto flutuante[(https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
+### Dia 15 - [Texto flutuante](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
 
 ![dia15](https://user-images.githubusercontent.com/51206170/115086949-a5b80f00-9ee3-11eb-981c-81879161740a.gif)
 
@@ -216,3 +217,12 @@ O que foi tutilizado:
 - overflow
 - transition
 - transform
+
+
+
+### Dia 17 - [Loader animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2017%20-%20loader%20animado)
+
+![dia17](https://user-images.githubusercontent.com/51206170/115153202-1d547e00-a04b-11eb-9a1c-b0430eb7dd86.gif)
+
+O que foi utilizado:
+- animation
