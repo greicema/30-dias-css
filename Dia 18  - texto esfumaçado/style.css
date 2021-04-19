@@ -1,0 +1,45 @@
+body {
+    background-color: burlywood;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+li {
+    list-style-type: none;
+    color: green;
+    font-size: 64px;
+    letter-spacing: 12px;
+    font-weight: bolder;
+    transition: 3s;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.br:hover {
+    transform: translateX(-400px);
+    opacity: 0;
+    filter: blur(25px);
+    /*a propriedade filter define efeitos visuais para um elemento, sendo possível combinar mais de um filtro*/
+}
+
+.ta:hover {
+    transform: translateX(400px);
+    opacity: 0;
+    filter: blur(25px);
+}
+
+.lascado:hover {
+    transform: translateY(-400px);
+    opacity: 0;
+    filter: blur(25px);
+    color: red;
+}
