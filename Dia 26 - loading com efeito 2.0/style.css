@@ -1,0 +1,70 @@
+body {
+    background-color: burlywood;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    display: flex;
+}
+
+.span,
+.span_large {
+    width: 200px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.075);
+    vertical-align: middle;
+    border-radius: 8px;
+}
+
+.timer {
+    width: 96px;
+    height: 96px;
+    background-color: transparent;
+    border-radius: 50%;
+    position: relative;
+    margin: 48px auto;
+    border: 6px solid mediumvioletred;
+}
+
+.timer:after,
+.timer:before {
+    position: absolute;
+    content: "";
+    background-color: MediumVioletRed;
+}
+
+.timer:after {
+    width: 40px;
+    height: 4px;
+    top: 48px;
+    left: 48px;
+    transform-origin: 1px 1px;
+    animation: animatemin 4s linear infinite;
+}
+
+.timer:before {
+    width: 32px;
+    height: 4px;
+    top: 48px;
+    left: 48px;
+    transform-origin: 1px 1px;
+    animation: animatehr 16s linear infinite;
+}
+
+@keyframes animatemin {
+    0% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes animatehr {
+    0% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
