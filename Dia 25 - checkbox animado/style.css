@@ -1,0 +1,50 @@
+body {
+    background-color: burlywood;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+label {
+    font-size: 20px;
+}
+
+input[type="checkbox"] {
+    position: relative;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    appearance: none;
+    outline: none;
+    transition: 0.5s;
+    margin-right: 12px;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+
+input[type="checkbox"]::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+    box-sizing: border-box;
+    transition: .5s;
+}
+
+input:checked[type="checkbox"]::before {
+    border-left: none;
+    border-top: none;
+    width: 10px;
+    transform: rotate(50deg) translate(5px, -10px);
+    border-color: green;
+    transition: .5s;
+}
