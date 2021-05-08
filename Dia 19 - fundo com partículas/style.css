@@ -39,6 +39,7 @@ body {
 .brilho span {
     position: absolute;
     top: calc(80px * var(--i));
+    /*o função var() é usada para inserir o valor de uma variável css*/
     left: calc(80px * var(--i));
     bottom: calc(80px * var(--i));
     right: calc(80px * var(--i));
