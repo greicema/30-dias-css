@@ -1,5 +1,5 @@
 # 30-dias-css
-Desafio de 30 dias para melhorar habilidades de codificação com mini projetos em HTML e CSS. Desafio idealizado por Milena Carecho.
+Desafio de 30 dias para melhorar habilidades de codificação com mini projetos em HTML e CSS. Desafio idealizado por Milena Carecho. 
 
 ## Índice
                 
@@ -20,6 +20,20 @@ Desafio de 30 dias para melhorar habilidades de codificação com mini projetos 
 15. [Texto flutuante](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2015%20-%20texto%20flutuante)
 16. [Botão com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2016%20-%20botão%20com%20efeito%202.0)
 17. [Loader animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2017%20-%20loader%20animado)
+18. [Texto esfumaçado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2018%20%20-%20texto%20esfumaçado)
+19. [Fundo com partículas](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2019%20-%20fundo%20com%20partículas)
+20. [Botão com efeito 3.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2020%20-%20botão%20com%20efeito%203.0)
+21. [Esferas quicando](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2021%20-%20esferas%20quicando) 
+22. [Ícones com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2022%20-%20ícones%20com%20efeito)
+23. [Caixas de som](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2023%20-%20caixas%20de%20som)
+24. [Preloader animado 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2024%20-%20preloader%20animado%202.0)
+25. [Checkbox animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2025%20-%20checkbox%20animado)
+26. [Loading com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2026%20-%20loading%20com%20efeito%202.0)
+27. [Terra girando](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2027%20-%20terra%20girando)
+28. [Cor de background mudando de cor](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2028%20-%20cor%20de%20background%20mudando)
+29. [Menu responsivo com media queries](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2029%20-%20menu%20responsivo%20com%20media%20queries)
+30. [Fogos de artifício](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2030%20-%20fogos%20de%20artifício)
+
 
 
 
@@ -237,3 +251,145 @@ O que foi utilizado:
 - transform
 - :hover
 - filter
+
+
+
+### Dia 19 - [Fundo com partículas](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2019%20-%20fundo%20com%20partículas)
+
+![dia19](https://user-images.githubusercontent.com/51206170/117547240-04fdd080-b005-11eb-98c6-e00739d610b7.gif)
+
+O que foi utilizado:
+- span
+- Variáveis CSS
+- animation
+- transform
+- nth-child()
+
+
+
+### Dia 20 - [Botão com efeito 3.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2020%20-%20botão%20com%20efeito%203.0)
+
+![dia20](https://user-images.githubusercontent.com/51206170/117547401-ca486800-b005-11eb-8c94-bc3d98a1dc88.gif)
+
+O que foi utilizado:
+- button
+- :hover
+- ::before
+- transform
+
+
+
+### Dia 21 - [Esferas quicando](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2021%20-%20esferas%20quicando) 
+
+![dia21](https://user-images.githubusercontent.com/51206170/117547466-214e3d00-b006-11eb-8cb0-da969d15d35f.gif)
+
+O que foi utilizado:
+- listas
+- animation
+- nth-child()
+
+
+
+### Dia 22 - [Ícones com efeito](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2022%20-%20ícones%20com%20efeito)
+
+![dia22](https://user-images.githubusercontent.com/51206170/117547598-c8cb6f80-b006-11eb-90e0-ffaf16065a0e.gif)
+
+O que foi utilizado:
+- [Font Awesome](https://fontawesome.com)
+- listas
+- :hover
+- :before
+- :after
+- transform
+- transition
+- animation
+
+
+
+### Dia 23 [Caixas de som](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2023%20-%20caixas%20de%20som)
+
+![dia23](https://user-images.githubusercontent.com/51206170/117547680-295aac80-b007-11eb-83d8-a557852c5374.gif)
+
+O que foi utilizado:
+- animation
+
+
+
+### Dia 24 [Preloader animado 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2024%20-%20preloader%20animado%202.0)
+
+![dia24](https://user-images.githubusercontent.com/51206170/117547765-c3baf000-b007-11eb-81ff-8a809ee97fe0.gif)
+
+O que foi utilizado:
+- span
+- animation
+- nth-child
+- transform
+
+
+
+### Dia 25 [Checkbox animado](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2025%20-%20checkbox%20animado)
+
+![dia25](https://user-images.githubusercontent.com/51206170/117547859-3f1ca180-b008-11eb-89d7-8f74244935c5.gif)
+
+O que foi utilizado:
+- listas
+- label
+- input
+- ::before
+- transform
+- transition
+
+
+
+### Dia 26 [Loading com efeito 2.0](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2026%20-%20loading%20com%20efeito%202.0)
+
+![dia26](https://user-images.githubusercontent.com/51206170/117547962-bc481680-b008-11eb-86f7-f8b95e479715.gif)
+
+O que foi utilizado:
+- :after
+- :before
+- animation
+- transform
+
+
+
+### Dia 27 - [Terra girando](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2027%20-%20terra%20girando)
+
+![dia27](https://user-images.githubusercontent.com/51206170/117548103-62941c00-b009-11eb-99a6-11154167ea1a.gif)
+
+O que foi utilizado:
+- animation
+- :before
+
+
+
+### Dia 28 - [Cor de background mudando de cor](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2028%20-%20cor%20de%20background%20mudando)
+
+![dia28](https://user-images.githubusercontent.com/51206170/117548172-dd5d3700-b009-11eb-854f-b2b66a2f271a.gif)
+
+O que foi utilizado:
+- animation
+- transform
+
+
+
+### Dia 29 - [Menu responsivo com media queries](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2029%20-%20menu%20responsivo%20com%20media%20queries)
+
+![dia29](https://user-images.githubusercontent.com/51206170/117548265-66746e00-b00a-11eb-852c-71a224cb67d6.gif)
+
+O que foi utilizado:
+- label
+- input
+- @media
+
+
+
+### Dia 30 - [Fogos de artifício](https://github.com/greicemsj/30-dias-css/tree/master/Dia%2030%20-%20fogos%20de%20artifício)
+
+![dia30](https://user-images.githubusercontent.com/51206170/117548335-d08d1300-b00a-11eb-9147-0411cd66ec31.gif)
+
+O que foi utilizado:
+- transform
+- animation
+- nht-child()
+- ::before
