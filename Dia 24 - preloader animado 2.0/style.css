@@ -9,6 +9,7 @@ body {
 
 .preloader {
     position: relative;
+    margin-right: 30vh;
 }
 
 .preloader span {
